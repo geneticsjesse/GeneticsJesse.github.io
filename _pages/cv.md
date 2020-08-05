@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+Summary of Qualifications
+======
+* Extremely versatile, excels in field, wet-lab, and coding/software environments
+* Demonstrates excellent project and time management skills to consistently meet deadlines
+* 2+ years of experience collaborating with numerous stakeholders to generate multiple primary author research publications as well as joint governmental reports and project updates for funding agencies
+* Demonstrates initiative and organizational skills in leading interdisciplinary research projects and acting as interim board member of the Ontario Chapter of the Wildlife Society
+
 Education
 ======
 * B.Sc. in Marine and Freshwater Biology, Minor in Criminal Justice and Public Policy, University of Guelph
@@ -17,15 +24,51 @@ Education
 Work experience
 ======
 * 2018-2020: Graduate Teaching Assistant
-  * Departments of Forensic Science and Biology at Trent University
+  * Departments of Forensic Science and Biology at Trent University, Ontario, Canada
   * Courses taught: Applied Molecular Genetics, Population Genetics, Scientific Methodology in Forensic Science
   * Key duties: Led seminars to groups of 20-30 students, graded presentations, essays, and other methods of assessment. Worked with students on an individual basis to assess specific requirements and issues
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018-Pres: Sales and Customer Service Agent
+  * Trent University Athletic Centre
+  * Key duties: Ensured high levels of customer service through thorough knowledge of programs and offerings and resolved customer concerns. Assisted with training new staff, ensured safety and security of patrons
+
+* 2017-2018: Research Technician
+  * Department of Integrative Biology, University of Guelph, Ontario, Canada
+  * Supervisors: Dr. Kevin McCann and Dr. Ryan Prosser
+  * Key duties: Determined the impact of agricultural activity on sediment toxicity in the Long Point Conservation Area in Lake Erie using multiple invertebrate species to quantify biological endpoints
+
+* 2017: Research intern
+  * Department of Aquaculture, Hólar University College, Hólar, Iceland
+  * Supervisor: Dr. Camille Leblanc
+  * Key duties: Devised a methodological approach to age dwarf Arctic charr using otoliths. Handled lab specimens and utilized photomicroscopy to complete an
+otolith-based age assessment
+
+* 2015-2016: Research Technician
+  * Department of Integrative Biology, University of Guelph, Ontario, Canada
+  * Supervisor: Dr. Rob McLaughlin
+  * Key duties: Assessed consistent individual differences in trapped versus electrofished sea lamprey behaviour to improve trapping success
   
+* 2014: Interpretive Naturalist Materials Developer
+  * University of Guelph Arboretum, Ontario, Canada
+  * Key duties: Designed educational programs for a wide variety of age groups,
+created digital educational materials for website and print
+  
+Awards and Honours
+======
+* 2019 Rocky Mountain Goat Alliance Grant ($5050 CAD)
+* 2019 Young Family Bursary ($250 CAD)
+* 2018/2019 BMO Future Green Leader Scholarship ($500 CAD)
+* 2018/2019 Research Fellowship Award ($16,600 CAD)
+* 2016/2017 Deans Honour List University of Guelph
+
+Professional Development
+======
+* 2020 Wetlands 101: An Introduction to Boreal Wetlands - online certification
+* 2020 ESRI Cartography Massive Open Online Course - online certification
+* 2020 Genomic Forecasting Symposium - online attendee
+* 2019 - Ontario Chapter of the Wildlife Society interim board member
+* 2019 - Canadian Society for Ecology Evolution member
+
 Skills
 ======
 * Skill 1
