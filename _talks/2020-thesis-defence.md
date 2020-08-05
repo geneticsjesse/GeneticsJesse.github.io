@@ -1,7 +1,7 @@
 ---
 title: "M.Sc. thesis defence presentation"
 collection: talks
-type: "Talk"
+type: "Presentation"
 permalink: /talks/2020-thesis-defence
 venue: "Trent University"
 date: 2020-07-27
