@@ -69,15 +69,6 @@ Professional Development
 * 2019 - Ontario Chapter of the Wildlife Society interim board member
 * 2019 - Canadian Society for Ecology Evolution member
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -96,6 +87,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
