@@ -1,7 +1,7 @@
 ---
 title: "Variation in response of laboratory-cultured Tubifex tubifex, Hyalella azteca and Hexagenia spp. to sediment from streams with varying exposure to agriculture."
 collection: publications
-permalink: /publication/2020-01-01-paper-1
+permalink: /publication/2020-01-01-paper-title-number-1
 excerpt: ''
 date: 2020-01-01
 venue: 'Water, Air, and Soil Pollution'
