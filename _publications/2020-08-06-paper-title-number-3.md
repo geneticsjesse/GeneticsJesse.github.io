@@ -1,5 +1,5 @@
 ---
-title: "Gut microbiome composition predicts summer core range size in a generalist and specialist ungulate"
+title: "Gut microbiome composition predicts summer core range size in a generalist and specialist ungulate "
 collection: publications
 permalink: /publication/2020-08-06-paper-title-number-3
 excerpt: ''
