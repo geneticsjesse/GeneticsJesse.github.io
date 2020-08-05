@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Variation in response of laboratory-cultured Tubifex tubifex, Hyalella azteca and Hexagenia spp. to sediment from streams with varying exposure to agriculture."
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: /publication/2020-01-01-paper-1
+excerpt: ''
+date: 2020-01-01
+venue: 'Water, Air, and Soil Pollution'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Wolf, J.F., Prosser, R.S., Champagne, E., McCann, K.S. (2020). &quot;Variation in response oflaboratory-cultured Tubifex tubifex, Hyalella azteca and Hexagenia spp. to sediment from streams with varying exposure to agriculture.&quot; <i>Water, Air, and Soil Pollution</i>. 231(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Wolf, J.F., Prosser, R.S., Champagne, E.J., McCann, K.S. (2020). "Variation in Response of Laboratory-Cultured Freshwater Macroinvertebrates to Sediment from Streams with Differential Exposure to Agriculture". <i>Water Air Soil Pollut</i>. 231(13). https://doi.org/10.1007/s11270-019-4376-6
