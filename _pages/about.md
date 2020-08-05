@@ -8,7 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-## Jesse is a recent M.Sc. graduate from the Environmental and Life Sciences Department at Trent University interested in the integration of genetic and genomic techhniques into conservation and species management.
+##  Jesse is an aspiring scientist and recent M.Sc. graduate from Trent University, with a B.Sc. from the University of Guelph.
 
-# Teaching experience
-I have taught Applied Molecular Biology, Population Genetics, and Methods in Forensic Science in the Departments of Forensic Science and Department of Biology
+# Research Interests
+My interests are eclectic and dynamic, but academically, are primarily focused on integrating genetic and genomic techniques into ecological settings to inform conservation management
+
+# Technical Experience
+I have worked in the alpine mountains of British Columbia and across southwestern Ontario, as well as as in northern Iceland. 
+I have 3+ years of experience handling and researching multiple aquatic species in both field and experimental settings. In addition, I 2+ years of experiencehave wet lab experience working with DNA to access genetic and genomic information.
+I also have 2+ years of experience collaborating with numerous stakeholders to generate multiple primary author research publications as well as joint governmental reports and project updates for funding agencies.
+
+# Leadership Experience
+I am passionate about the ShutDownSTEM movement and am part of a working group that meets weekly to devote time to education and to make plans to eradicate systemic racism in science and beyond. 
+I am also an interim board member for the Ontario Chapter of the Widlife Society, tasked with helping plan our AGM and other general organizational duties.
