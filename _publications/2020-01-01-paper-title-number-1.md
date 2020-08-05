@@ -11,4 +11,4 @@ citation: 'Wolf, J.F., Prosser, R.S., Champagne, E., McCann, K.S. (2020). &quot;
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Wolf, J.F., Prosser, R.S., Champagne, E., McCann, K.S. (2020). "Variation in response of laboratory-cultured Tubifex tubifex, Hyalella azteca and Hexagenia spp. to sediment from streams with varying exposure to agriculture." <i>Water, Air, and Soil Pollution</i>. 231(13).
