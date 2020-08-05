@@ -18,7 +18,7 @@ I have worked in the alpine mountains of British Columbia and across southwester
 I have 2+ years of experience:
 * handling and researching multiple aquatic species in both field and experimental settings
 * in wet labs working with DNA to generate genetic and genomic data
-* collaborating with numerous stakeholders to generate multiple primary author research publications as well as joint governmental reports and project updates for funding agencies.
+* collaborating with numerous stakeholders to generate multiple primary author research publications as well as joint governmental reports and project updates for funding agencies
 
 # Leadership Experience
 I am passionate about the ShutDownSTEM movement and am part of a working group that meets weekly to devote time to education and to make plans to eradicate systemic racism in science and beyond. 
