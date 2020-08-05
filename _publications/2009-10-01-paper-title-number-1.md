@@ -10,3 +10,5 @@ citation: 'Wolf, J.F., Prosser, R.S., Champagne, E., McCann, K.S. (2020). &quot;
 ---
 
 [Download paper here](https://github.com/jwolfbio/GeneticsJesseW.github.io/files/paper1.pdf)
+
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
