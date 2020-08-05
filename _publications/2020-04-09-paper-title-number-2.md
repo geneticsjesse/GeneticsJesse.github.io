@@ -11,4 +11,4 @@ citation: 'Wolf, J.F., Kriss, K.D., MacAulay, K.M., & Shafer, A.B.A. (2020). &qu
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Wolf, J.F., Kriss, K.D., MacAulay, K.M., & Shafer, A.B.A. (2020). "Panmictic population genetic structure of northern British Columbia mountain goats (Oreamnos americanus) has implications for harvest management." <i>Conservation Genetics </i>. 21(613-623).
