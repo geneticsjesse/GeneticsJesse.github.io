@@ -17,7 +17,7 @@ My interests are eclectic and dynamic, but academically, are primarily focused o
 I have worked in the alpine mountains of British Columbia and across southwestern Ontario, as well as as in northern Iceland. 
 I have 2+ years of experience:
 * handling and researching multiple aquatic species in both field and experimental settings
-* in wet labs working with DNA to access genetic and genomic information
+* in wet labs working with DNA to generate genetic and genomic data
 * collaborating with numerous stakeholders to generate multiple primary author research publications as well as joint governmental reports and project updates for funding agencies.
 
 # Leadership Experience
