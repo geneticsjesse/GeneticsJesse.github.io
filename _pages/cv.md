@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Marine and Freshwater Biology, Minor in Criminal Justice and Public Policy, University of Guelph
+* M.Sc. in Environmental and Life Sciences, Trent University
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-2020: Graduate Teaching Assistant
+  * Departments of Forensic Science and Biology at Trent University
+  * Courses taught: Applied Molecular Genetics, Population Genetics, Scientific Methodology in Forensic Science
+  * Key duties: Led seminars to groups of 20-30 students, graded presentations, essays, and other methods of assessment. Worked with students on an individual basis to assess specific requirements and issues
 
 * Fall 2015: Research Assistant
   * Github University
