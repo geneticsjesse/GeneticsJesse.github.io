@@ -1,5 +1,5 @@
 ---
-title: "Panmictic populationgenetic structure of northern British Columbia mountain goats (Oreamnos americanus) has implications for harvest management."
+title: "Panmictic population genetic structure of northern British Columbia mountain goats (Oreamnos americanus) has implications for harvest management."
 collection: publications
 permalink: /publication/2020-04-09-paper-title-number-2
 excerpt: ''
