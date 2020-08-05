@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Teaching Assistant"
 permalink: /teaching/2019-winter-teaching-1
 venue: "Trent University, Department of Biology & Department of Forensic Science"
-date: 2019
+date: 2019-01-01 - 2019-04-30
 location: "Peterborough, Ontario, Canada"
 ---
 
