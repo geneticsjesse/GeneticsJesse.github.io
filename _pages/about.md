@@ -22,4 +22,4 @@ I have 2+ years of experience:
 
 # Leadership Experience
 I am passionate about the ShutDownSTEM movement and am part of a working group that meets weekly to devote time to education and to make plans to eradicate systemic racism in science and beyond. 
-I am also an interim board member for the Ontario Chapter of the Widlife Society, tasked with helping plan our AGM and other general organizational duties.
+I am also an interim board member for the Ontario Chapter of the Wildlife Society, tasked with helping plan our AGM and other general organizational duties.
