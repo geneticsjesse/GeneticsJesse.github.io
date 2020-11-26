@@ -12,5 +12,3 @@ redirect_from:
 <img src="images/JW_sampling.jpg" alt="Sampling mountain goat pellets in British Columbia, Canada"> 
 
 <img src="images/JW_sampling2.jpg" alt="Sampling mountain goat pellets in British Columbia, Canada"> 
-
-<img src="images/IMG_0378.jpg" alt="Taking a rest on a hike at Skookumchuck Narrows"> 
