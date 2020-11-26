@@ -23,7 +23,7 @@ Education
 
 Work experience
 ======
-Wildlife Research Biologist - Ministry of Natural Resources and Forestry (MNRF), Ontario, Canada | 2020 - pres.
+<b> Wildlife Research Biologist - Ministry of Natural Resources and Forestry (MNRF), Ontario, Canada | 2020 - pres. <b>
   *	Genome assembly of Glaucomys spp.
   *	Work with government scientists to trap and collar/tag white-tailed deer and flying squirrels and generate associated microsatellite data 
 
@@ -32,28 +32,24 @@ Ministry of Forests, Lands, Natural Resource Operations and Rural Development (F
   * Work with government scientists to clean and organize 2+ years of GPS data and generate Resource Selection Functions for mountain goat harvest management
   * Generate analyses and findings relevant to species management and subsequent conservation recommendations
 
-2018-2020: Graduate Teaching Assistant - Departments of Forensic Science and Biology at Trent University, Ontario, Canada
+Graduate Teaching Assistant - Departments of Forensic Science and Biology at Trent University, Ontario, Canada | 2018 - 2020
   * Courses taught: Applied Molecular Genetics, Population Genetics, Scientific Methodology in Forensic Science
   * Key duties: Led seminars to groups of 20-30 students, graded presentations, essays, and other methods of assessment. Worked with students on an individual basis to assess specific requirements and issues
 
-* 2017-2018: Research Technician
-  * Department of Integrative Biology, University of Guelph, Ontario, Canada
+Research Technician - Department of Integrative Biology, University of Guelph, Ontario, Canada | 2017 - 2018
   * Supervisors: Dr. Kevin McCann and Dr. Ryan Prosser
   * Key duties: Determined the impact of agricultural activity on sediment toxicity in the Long Point Conservation Area in Lake Erie using multiple invertebrate species to quantify biological endpoints
 
-* 2017: Research intern
-  * Department of Aquaculture, Hólar University College, Hólar, Iceland
+Research intern - Department of Aquaculture, Hólar University College, Hólar, Iceland | 2017
   * Supervisor: Dr. Camille Leblanc
   * Key duties: Devised a methodological approach to age dwarf Arctic charr using otoliths. Handled lab specimens and utilized photomicroscopy to complete an
 otolith-based age assessment
 
-* 2015-2016: Research Technician
-  * Department of Integrative Biology, University of Guelph, Ontario, Canada
+Research Technician - Department of Integrative Biology, University of Guelph, Ontario, Canada | 2015 - 2016
   * Supervisor: Dr. Rob McLaughlin
   * Key duties: Assessed consistent individual differences in trapped versus electrofished sea lamprey behaviour to improve trapping success
   
-* 2014: Interpretive Naturalist Materials Developer
-  * University of Guelph Arboretum, Ontario, Canada
+Interpretive Naturalist Materials Developer - University of Guelph Arboretum, Ontario, Canada | 2014
   * Key duties: Designed educational programs for a wide variety of age groups,
 created digital educational materials for website and print
   
