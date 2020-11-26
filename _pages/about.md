@@ -6,5 +6,5 @@ author_profile: true
 redirect_from:
   - /about
 ---
-<img src="images/JW_sampling.jpg" alt="Sampling mountain goat pellets in British Columbia, Canada"> 
+<img src="images/JW_sampling.jpg" alt="Sampling mountain goat pellets in British Columbia, Canada" style="width:500px;height:600px;"> 
 ### Taking time to enjoy the view while sampling mountain goat pellets in British Columbia, Canada
