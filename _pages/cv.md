@@ -23,12 +23,16 @@ Education
 
 Work experience
 ======
-2020 – pres: Wildlife Research Biologist - Ministry of Natural Resources and Forestry (MNRF), Ontario, Canada
-=
+Wildlife Research Biologist - Ministry of Natural Resources and Forestry (MNRF), Ontario, Canada | 2020 - pres.
   *	Genome assembly of Glaucomys spp.
   *	Work with government scientists to trap and collar/tag white-tailed deer and flying squirrels and generate associated microsatellite data 
 
-* 2018-2020: Graduate Teaching Assistant - Departments of Forensic Science and Biology at Trent University, Ontario, Canada
+Geospatial Data Analyst Contractor - Ministry of Forests, Lands, Natural Resource Operations and Rural Development, British Columbia, Canada | 2020	
+Ministry of Forests, Lands, Natural Resource Operations and Rural Development (FLNRORD), British Columbia
+  * Work with government scientists to clean and organize 2+ years of GPS data and generate Resource Selection Functions for mountain goat harvest management
+  * Generate analyses and findings relevant to species management and subsequent conservation recommendations
+
+2018-2020: Graduate Teaching Assistant - Departments of Forensic Science and Biology at Trent University, Ontario, Canada
   * Courses taught: Applied Molecular Genetics, Population Genetics, Scientific Methodology in Forensic Science
   * Key duties: Led seminars to groups of 20-30 students, graded presentations, essays, and other methods of assessment. Worked with students on an individual basis to assess specific requirements and issues
 
@@ -62,14 +66,6 @@ Awards and Honours
 * 2018/2019 BMO Future Green Leader Scholarship ($500 CAD)
 * 2018/2019 Research Fellowship Award ($16,600 CAD)
 * 2016/2017 Deans Honour List University of Guelph
-
-Professional Development
-======
-* 2020 Wetlands 101: An Introduction to Boreal Wetlands - online certification
-* 2020 ESRI Cartography Massive Open Online Course - online certification
-* 2020 Genomic Forecasting Symposium - online attendee
-* 2019 - Ontario Chapter of the Wildlife Society interim board member
-* 2019 - Canadian Society for Ecology Evolution member
 
 Publications
 ======
