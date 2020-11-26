@@ -62,23 +62,9 @@ Awards and Honours
 * 2018/2019 BMO Future Green Leader Scholarship ($500 CAD)
 * 2018/2019 Research Fellowship Award ($16,600 CAD)
 * 2016/2017 Deans Honour List University of Guelph
-#
-#Publications
-#======
-#  <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-#  
-#Talks
-#======
-#  <ul>{% for post in site.talks %}
-#    {% include archive-single-talk-cv.html %}
-#  {% endfor %}</ul>
-  
-#Teaching
-#======
-#  <ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-#  
-#
+
+Publications
+======#  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
