@@ -23,14 +23,13 @@ Education
 
 Work experience
 ======
-* 2018-2020: Graduate Teaching Assistant
-  * Departments of Forensic Science and Biology at Trent University, Ontario, Canada
+* 2020 – pres: Wildlife Research Biologist - Ministry of Natural Resources and Forestry (MNRF), Ontario, Canada
+  *	Genome assembly of Glaucomys spp.
+  *	Work with government scientists to trap and collar/tag white-tailed deer and flying squirrels and generate associated microsatellite data 
+
+* 2018-2020: Graduate Teaching Assistant - Departments of Forensic Science and Biology at Trent University, Ontario, Canada
   * Courses taught: Applied Molecular Genetics, Population Genetics, Scientific Methodology in Forensic Science
   * Key duties: Led seminars to groups of 20-30 students, graded presentations, essays, and other methods of assessment. Worked with students on an individual basis to assess specific requirements and issues
-
-* 2018-Pres: Sales and Customer Service Agent
-  * Trent University Athletic Centre
-  * Key duties: Ensured high levels of customer service through thorough knowledge of programs and offerings and resolved customer concerns. Assisted with training new staff, ensured safety and security of patrons
 
 * 2017-2018: Research Technician
   * Department of Integrative Biology, University of Guelph, Ontario, Canada
@@ -55,6 +54,8 @@ created digital educational materials for website and print
   
 Awards and Honours
 ======
+* 2020/2021	Nominee for the Presidents Gold Medal in Science at Trent University
+* 2020 Graduate Bursary ($800 CAD)
 * 2019 Rocky Mountain Goat Alliance Grant ($5050 CAD)
 * 2019 Young Family Bursary ($250 CAD)
 * 2018/2019 BMO Future Green Leader Scholarship ($500 CAD)
