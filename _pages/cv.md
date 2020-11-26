@@ -64,7 +64,8 @@ Awards and Honours
 * 2016/2017 Deans Honour List University of Guelph
 
 Publications
-======#  <ul>{% for post in site.publications %}
+======  
+   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
