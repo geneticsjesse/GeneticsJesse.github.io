@@ -23,7 +23,8 @@ Education
 
 Work experience
 ======
-* 2020 – pres: Wildlife Research Biologist - Ministry of Natural Resources and Forestry (MNRF), Ontario, Canada
+2020 – pres: Wildlife Research Biologist - Ministry of Natural Resources and Forestry (MNRF), Ontario, Canada
+====
   *	Genome assembly of Glaucomys spp.
   *	Work with government scientists to trap and collar/tag white-tailed deer and flying squirrels and generate associated microsatellite data 
 
